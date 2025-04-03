@@ -3,6 +3,7 @@
 # IG : @olahdatasemarang_
 # Cluster robust standard errors for linear models and general linear models Use lm.cluster And glm.cluster (miceadds) With (In) R Software
 install.packages("miceadds")
+install.packages("sandwich")
 library("miceadds")
 miceadds = read.csv("https://raw.githubusercontent.com/timbulwidodostp/miceadds/main/miceadds/miceadds.csv",sep = ";")
 # Estimation Cluster robust standard errors for linear models and general linear models Use lm.cluster And glm.cluster (miceadds) With (In) R Software
