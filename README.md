@@ -1,6 +1,8 @@
 # miceadds
 Cluster robust standard errors for linear models and general linear models Use lm.cluster And glm.cluster (miceadds) With (In) R Software
 
+https://www.youtube.com/watch?v=RxesdG43Xl4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
